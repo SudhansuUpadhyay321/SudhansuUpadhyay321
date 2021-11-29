@@ -2,9 +2,8 @@
 - 👀 I’m interested in programming in languages Python, Javacript CSS and maybe HTML
 - 🌱 I’m currently learning Python, Javascript and CSS
 - 💞️ I’m looking to collaborate on nothing 
-- 📫 How to reach me: don't try to reach me I am useless for now if you want to reach me to teach me something then maybe you can text me on LinkedIn although I don't know if that's 
-how it works so yea 
-my LinkedIn profile: https://www.linkedin.com/in/sudhanshu-upadhyay-5b9457202/
+- 📫 How to reach me: don't try to reach me I am useless as how I am right now tho if you are willing me to take under your guidance then I am not if you want to reach me to teach me something which I doubt will be the case then maybe you can text me on LinkedIn although I don't know if that's 
+how it works so yea maybe you can mail me on hiardiarevriwiar@gmail.com
 
 <!---
 SudhansuUpadhyay321/SudhansuUpadhyay321 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
